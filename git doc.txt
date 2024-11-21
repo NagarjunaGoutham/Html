@@ -1,0 +1,11 @@
+make changes and save them
+check
+**** git status 
+if files found in red color they need be added to stage area
+
+**** git add .  // git add filename
+ now check git status all will be in green color
+
+ **** git commit -m "commit message"
+
+ **** git push
